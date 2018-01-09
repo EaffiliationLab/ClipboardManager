@@ -1,2 +1,2 @@
 # ClipboardManager
-Clears clipboard after one paste to avoid disaster ;)
+Clears clipboard after one paste to avoid disasters ;)
